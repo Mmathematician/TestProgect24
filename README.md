@@ -1,1 +1,1 @@
-# TestProgect24
+# TestProgect24 Сборка проекта: Visual Studio 2022 -> Строка меню -> Сборка -> Упаковка TestProgect24.
